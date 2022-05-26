@@ -54,7 +54,7 @@ I will conduct my own data analysis and create a file to share that documents my
 
     release_year: Year of movie release.
 
-# Q-Research Question:
+# Q1-Research Question:
 
 Is there a relationship between profit and Popularity?
 
