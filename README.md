@@ -56,8 +56,6 @@ I will conduct my own data analysis and create a file to share that documents my
 
 # Q-Research Question:
 
-# First question is about finding the pattern & Relationhip between profits & different variables:
-
 Is there a relationship between profit and Popularity?
 
 Is there a relationship between profit and budget?
