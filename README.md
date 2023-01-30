@@ -11,7 +11,7 @@ In this project, I will analyze a dataset and then communicate my findings about
 # Project Details
 # Introduction
 
-I will conduct my own data analysis and create a file to share that documents my findings. I will start by taking a look at the dataset and brainstorming what questions I could answer using it. Then I will  use pandas and NumPy to answer the questions that attracts my attention, and create a report sharing the answers. I will not be required to use inferential statistics or machine learning to complete this project, but I will make it clear in my communications that my findings are tentative. This project is open-ended in that we are not looking for one right answer.
+I will conduct my own data analysis and create a file to share my findings. I will start by taking a look at the dataset and brainstorming what questions I could answer using my findings. Then I will  use pandas and NumPy to answer the questions that attracts my attention, and create a report in order to share the answers. I will make it clear in my communications that my findings are tentative. This project is open-ended in that I am not looking for one right answer.
 
 
 # Dataset Features:
